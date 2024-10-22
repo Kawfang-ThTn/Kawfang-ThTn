@@ -6,6 +6,8 @@ Here is what I've Learn
   - JavaScript / ES6
   - TypeScript
   - React.js
+My next learning station
+  - Tailwind CSS
 <!--
 **Kawfang-ThTn/Kawfang-ThTn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
