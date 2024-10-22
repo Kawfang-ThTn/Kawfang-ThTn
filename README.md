@@ -1,12 +1,12 @@
 ## Hi there 👋
 🌱 I’m currently learning to become Frontend Developer
-,Here is what I've Learn 
+, Here is what I've learnt
   - HTML5
   - CSS
   - JavaScript / ES6
   - TypeScript
   - React.js
- <br>My next learning station
+ <br> <br> <br> My next learning station
   - Tailwind CSS
 <!--
 **Kawfang-ThTn/Kawfang-ThTn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
