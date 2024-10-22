@@ -1,5 +1,11 @@
 ## Hi there 👋
 🌱 I’m currently learning to become Frontend Developer
+Here is what I've Learn 
+  - HTML5
+  - CSS
+  - JavaScript / ES6
+  - TypeScript
+  - React.js
 <!--
 **Kawfang-ThTn/Kawfang-ThTn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
