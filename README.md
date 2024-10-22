@@ -1,6 +1,6 @@
 ## Hi there 👋
 🌱 I’m currently learning to become Frontend Developer
-Here is what I've Learn 
+,Here is what I've Learn 
   - HTML5
   - CSS
   - JavaScript / ES6
