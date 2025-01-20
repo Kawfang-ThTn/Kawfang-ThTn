@@ -8,6 +8,7 @@
   - React.js  <br>
 🤔 My next learning station
   - Tailwind CSS
+  - Node.js
 <!--
 **Kawfang-ThTn/Kawfang-ThTn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
