@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌱 I’m currently learning to become Frontend Developer
+🌱 I’m currently Full Stack Developer at Muangthai Capital Public Company Limited
 , Here is what I've learnt
   - HTML5
   - CSS / Tailwind CSS
