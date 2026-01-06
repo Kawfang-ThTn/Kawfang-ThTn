@@ -3,13 +3,13 @@
 , Here is what I've learnt
   - HTML5
   - CSS / Tailwind CSS
-  - PHP / Laravel
+  - PHP / Laravel 12
   - SQL
   - JavaScript / ES6
   - React.js <br>
 🤔 My next learning station
   - TypeScript
-  - Node.js
+  - Next.js
 <!--
 **Kawfang-ThTn/Kawfang-ThTn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
